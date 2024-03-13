@@ -149,7 +149,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .nav .nav-link {
 	display: block;
-	padding: calc(0.5 * var(--root-font-size)) var(--root-font-size);
+	padding: 0.5rem 1rem;
 }
 
 .nav .nav-link:hover {
