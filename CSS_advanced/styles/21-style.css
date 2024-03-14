@@ -192,7 +192,7 @@ ul.row {
 	clear: both;
   }
 
-.col- {
+[class^="col-"] {
 	float: left;
 	padding: calc(0.5 * var(--font-size-medium))
 }
