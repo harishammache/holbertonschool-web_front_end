@@ -336,14 +336,14 @@ ul.row {
 	z-index: 1;
 }
 
-.card-inner:hover {
+.card-work:hover .card-inner {
 	background-color: rgba(0, 0, 0, 0.7);
 }
 
 .card-work .card-title {
 	text-align: center;
 	margin: 0;
-	opacity: 0.1;
+	opacity: 0;
 	height: 100%;
 	position: relative;
 }
@@ -363,6 +363,6 @@ ul.row {
 	left: 0;
 }
 
-.card-work:hover .card-title a::after {
+.card-work:hover .card-title {
 	opacity: 1;
 }
