@@ -262,12 +262,12 @@ ul.row {
 
 .card-testimonial .card-avater {
 	border-radius: 50%;
-	width: calc(10 * var(--font-size-medium));
-  	height: calc(10 * var(--font-size-medium));
+	width: 10rem;
+  	height: 10rem;
 }
 
 .card-testimonial .card-quote cite {
 	display: block;
-	padding-top: var(--font-size-medium);
+	padding-top: 1rem;
 	color: var(--color-primary);
 }
