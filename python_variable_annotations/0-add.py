@@ -6,7 +6,7 @@
 
 def add(a: float, b: float) -> float:
     """
-        Add two floating point numbers.
+        Add two floating point numbers
 
         Parameters:
             a (float): The first floating point number.
