@@ -1,0 +1,13 @@
+/* My style */
+@mixin margin-rf($left, $right) {
+    margin-left: $left;
+    margin-right: $right;
+}
+
+body {
+    @include margin-rf(10px, 10px);
+}
+
+div {
+    @include margin-rf(15px, 15px);
+}
