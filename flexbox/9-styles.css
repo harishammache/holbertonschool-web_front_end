@@ -380,11 +380,7 @@
 
   /* Section ABOUT US =========================== */
 
-  .section-about-us {
-    /* Autres styles pour la section-about-us */
-   }
-   
-  .section-about-us .col- {
+  .section-about-us [class^="col-"] {
     align-self: center;
   }
   
