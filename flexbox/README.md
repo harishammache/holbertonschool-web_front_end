@@ -1,7 +1,7 @@
 <h1 align="center">Flexbox</h1>
 <br><br>
 <div align="center">
-    <img src="./img/images.png">
+    <img src="./img/images.jpg">
 </div>
 <br><br>
 
@@ -45,4 +45,4 @@ Voici quelques ressources utiles pour approfondir vos connaissances sur Flexbox 
 ## 🚀 Comment utiliser ce projet  
 1. Clonez ou téléchargez ce dépôt sur votre machine locale :  
    ```bash
-   git clone https://github.com/harishammache/holbertonschool-web-development/tree/main/developer_tools
+   git clone https://github.com/harishammache/holbertonschool-web_front_end/tree/main/flexbox
