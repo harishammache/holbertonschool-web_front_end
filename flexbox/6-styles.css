@@ -209,6 +209,10 @@
     display: flex;
   }
   
+  .nav .nav-item {
+  
+  }
+
   .nav .nav-link {
     display: block;
     padding: 0.5rem 0;
