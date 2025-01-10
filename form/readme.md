@@ -1,4 +1,4 @@
-# HTML5 Forms Project
+<h1 align="center">Forms </h1>
 
 ## Description
 
@@ -54,7 +54,26 @@ Pour récupérer ce projet en local, exécutez les commandes suivantes :
 
 ```bash
 # Clonez le dépôt
-git clone https://github.com/votre-utilisateur/html5-forms-project.git
+git clone https://github.com/harishammache/holbertonschool-web_front_end.git
 
 # Accédez au répertoire du projet
-cd html5-forms-project
+cd form 
+```
+
+# Références
+
+## Documentation
+- [HTML Forms - MDN](https://developer.mozilla.org/en-US/docs/Learn/Forms)
+- [CSS :valid/:invalid Selectors - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/:valid)
+- [HTML Fieldset and Legend - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/fieldset)
+
+## Articles et ressources
+- [An Extensive Guide To Web Form Usability - Smashing Magazine](https://www.smashingmagazine.com/2021/07/extensive-guide-web-form-usability/)
+- [Placeholders in Form Fields are Harmful - YouTube](https://www.youtube.com/watch?v=Y1YV6YZW3Ls)
+
+---
+
+## Auteur
+Projet réalisé par Hammache Haris
+
+
