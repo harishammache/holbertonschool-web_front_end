@@ -1,5 +1,5 @@
 <h1 align="center">Flexbox</h1>
-<br><br>
+<br>
 <div align="center">
     <img src="./img/images.jpg">
 </div>
