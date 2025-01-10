@@ -1,5 +1,7 @@
 <h1 align="center">Forms</h1>
-
+<div align="center">
+    <img src="./img/forms.jpg">
+</div>
 ## Description
 
 Ce projet vise à créer des formulaires HTML5 accessibles, fonctionnels et esthétiques en utilisant uniquement du HTML et du CSS. L'objectif est de concevoir des formulaires adaptés aux meilleures pratiques UX et de garantir leur compatibilité avec les navigateurs modernes.
