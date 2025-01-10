@@ -1,10 +1,7 @@
 <h1 align="center">Flexbox</h1>
-<br><br>
 <div align="center">
     <img src="./img/images.jpg">
 </div>
-<br><br>
-
 Ce projet vise à approfondir la compréhension et l'utilisation de **Flexbox** pour concevoir des pages web modernes et responsives sans avoir recours à des bibliothèques externes. À la fin de ce projet, vous serez capable d'expliquer et d'utiliser Flexbox dans diverses situations.
 
 ## Objectifs pédagogiques
