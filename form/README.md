@@ -1,4 +1,4 @@
-<h1 align="center">Forms </h1>
+<h1 align="center">Forms</h1>
 
 ## Description
 
