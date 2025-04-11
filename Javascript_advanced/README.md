@@ -51,4 +51,9 @@ You may use any of the following editors: `vi`, `vim`, `emacs`, or **Visual Stud
 To access and run the project locally, follow these steps:
 
 ```bash
-git clone 
+git clone https://github.com/harishammache/holbertonschool-web_front_end/Javascript_advanced.git
+```
+
+## 👤 Author
+
+Haris – Full-Stack Web Developer 
