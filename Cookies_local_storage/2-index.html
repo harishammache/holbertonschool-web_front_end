@@ -27,10 +27,8 @@
 
 
 
-                document.cookie = `firstname=${firstname}`;
-                document.cookie = `email=${email}`;
-                document.cookie = expires
-
+                document.cookie = `firstname=${firstname}; expires=${expires}`;
+                document.cookie = `email=${email}; expires=${expires}`;
             }
 
             function getCookie(name) {
@@ -45,8 +43,10 @@
             }
 
             function showCookies() {
+                const firstname = getCookie('firstname');
+                const email = getCookie('email');
                 const paragraph = document.createElement('p');
-                paragraph.innerHTML = `Cookies: ${EMAIL} - Firstname: ${FIRSTNAME}`;
+                paragraph.innerHTML = `Email: ${email} - Firstname: ${firstname}`;
                 document.getElementById(`cookieDisplay`).appendChild(paragraph)
             }
         </script>
